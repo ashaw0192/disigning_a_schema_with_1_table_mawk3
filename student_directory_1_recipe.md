@@ -18,8 +18,8 @@ students, names, cohorts
 
 Put the different nouns in this table. Replace the example with your own nouns.
 
-Record	Properties
-student name, cohort
+Record - Properties
+student - name, cohort
 
 Name of the table (always plural): students
 
@@ -34,8 +34,6 @@ cohort: text
 4. Write the SQL.
 
 -- file: students_table.sql
-
--- Replace the table name, columm names and types.
 
 CREATE TABLE students (
   id SERIAL PRIMARY KEY,
