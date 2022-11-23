@@ -1,11 +1,6 @@
 Two Tables Design Recipe Template
 
-Copy this recipe template to design and create two related database tables from a specification.
-
 1. Extract nouns from the user stories or specification
-
-# EXAMPLE USER STORY:
-# (analyse only the relevant part - here the final line).
 
 As a blogger
 So I can write interesting stuff
